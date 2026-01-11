@@ -1,1 +1,1 @@
-# Shashki
+# Shashki на питоне
